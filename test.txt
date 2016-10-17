@@ -8,3 +8,5 @@ Let's do it!
 learn how to use branch
 test ff merge
 this time let's use FF merge
+Now test bug 
+Bug Fixed :)
