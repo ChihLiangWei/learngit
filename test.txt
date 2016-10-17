@@ -7,3 +7,4 @@ Creating a new branch is pretty easy.
 Let's do it!
 learn how to use branch
 test ff merge
+this time let's use FF merge
